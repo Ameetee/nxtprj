@@ -1,0 +1,17 @@
+/* src/styles/Home.module.css */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+  }
+  
+  .title {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .image {
+    border-radius: 8px;
+  }
+  
